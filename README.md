@@ -50,7 +50,7 @@ Welcome to **MedBot**, an AI-powered medical diagnosis chatbot that uses **YOLO-
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Medical_Diagnosis_Chatbot.git
+   git clone https://github.com/vendotha/Medical_Diagnosis_Chatbot.git
    cd Medical_Diagnosis_Chatbot
    ```
 
@@ -73,7 +73,9 @@ Welcome to **MedBot**, an AI-powered medical diagnosis chatbot that uses **YOLO-
 
 ## 🖥️ Demo
 
-![MedBot Demo](demo.gif)
+Check out the video demo of MedBot below:
+
+[![MedBot Demo](https://img.youtube.com/vi/RY1o3Tm1a1s/0.jpg)](https://youtu.be/RY1o3Tm1a1s)
 
 ---
 
@@ -167,29 +169,3 @@ Check out the live demo of MedBot [here](#) (coming soon).
 ---
 
 Made with ❤️ by [Bhuvan Vendotha](https://github.com/vendotha).
-```
-
----
-
-### **Key Features of the README**
-1. **Badges**:
-   - Displays the license, Python version, and technologies used.
-2. **Interactive Sections**:
-   - Includes a **Quick Start** guide, **Demo**, and **Project Structure**.
-3. **Visuals**:
-   - Adds a **demo GIF** and **logo** for a professional look.
-4. **Contributing Guide**:
-   - Encourages contributions with clear steps.
-5. **Contact Information**:
-   - Provides links to email, GitHub, and LinkedIn.
-
----
-
-### **How to Use**
-1. Replace placeholders like `your-username`, `your-email@example.com`, and `Your Name` with your actual details.
-2. Add a **demo GIF** (e.g., `demo.gif`) to showcase the app in action.
-3. Update the **Live Demo** link when the app is deployed.
-
----
-
-This README will make your GitHub repository **stand out** and provide a **professional introduction** to your project. Let me know if you need further assistance! 🚀
