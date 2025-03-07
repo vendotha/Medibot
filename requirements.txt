@@ -1,0 +1,7 @@
+streamlit
+ultralytics
+google-generativeai
+pillow
+opencv-python
+gtts
+speechrecognition
