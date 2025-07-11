@@ -68,6 +68,10 @@ Welcome to **MedBot**, an AI-powered medical diagnosis chatbot that uses **YOLO-
    ```
 
 5. Open your browser and navigate to `http://localhost:8501`.
+---
+
+🌐 Live Demo
+Try MedBot now: https://medibot-r454.onrender.com
 
 ---
 
